@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T21:36:46.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="xwwi1R484V9aVfQdCPsZ" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T21:41:58.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="f6Ed_kf2oh0AKHEVhnah" version="17.5.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,10 +28,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GFgm7ISbEf7m12YMh4iF-1" value="algorithim" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="80" width="100" height="480" as="geometry" />
+          <mxGeometry x="480" y="80" width="255" height="480" as="geometry" />
         </mxCell>
         <mxCell id="GFgm7ISbEf7m12YMh4iF-29" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=27;" vertex="1" parent="GFgm7ISbEf7m12YMh4iF-1">
-          <mxGeometry x="-155" y="250" width="410" height="110" as="geometry" />
+          <mxGeometry x="-330" y="250" width="585" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GFgm7ISbEf7m12YMh4iF-19" value="setting grid" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.9;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GFgm7ISbEf7m12YMh4iF-1">
           <mxGeometry relative="1" as="geometry">
